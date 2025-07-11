@@ -5,6 +5,7 @@ indigo
 blue
 green
 Unicorn
+There should be another color name here
 yellow
 orange
 red
