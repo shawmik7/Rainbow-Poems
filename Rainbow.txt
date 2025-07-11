@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Pony
 
 violet
 indigo
@@ -12,3 +12,4 @@ red
 
 VIBGYOR
 And the unicorn
+and the Pony
