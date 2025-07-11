@@ -1,0 +1,9 @@
+Colors in a rainbow:
+
+violets
+indigo
+blue
+green
+yellow
+orange
+red
